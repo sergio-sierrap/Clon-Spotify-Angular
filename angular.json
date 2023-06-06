@@ -99,5 +99,7 @@
             }
         }
     },
-    "defaultProject": "spotify"
+    "cli": {
+      "analytics": false
+    }
 }
